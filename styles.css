@@ -219,6 +219,11 @@ button:active {
     margin: 1rem 0;
 }
 
+.social-icons li {
+    display: inline-block;
+    margin: 0 0.5rem;
+}
+
 .tags {
     width: 100%;
     display: flex;
